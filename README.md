@@ -1,4 +1,4 @@
-
+Needs alot of Structuring
   # CampusCart Student Marketplace Website
 
   This is a code bundle for CampusCart Student Marketplace Website AI Made. The original project is available at https://www.figma.com/design/2HXToiVBMfzDXVsEx0Wxy7/CampusCart-Student-Marketplace-Website.
